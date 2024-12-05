@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bungee+Spice&family=Denk+One&family=DynaPuff:wght@400..700&family=Honk&family=Jaro:opsz@6..72&family=Kablammo&family=Leckerli+One&family=Londrina+Sketch&family=Nabla&family=Rubik+Wet+Paint&family=Sixtyfour+Convergence&display=swap');
+
+h1 {
+    font-family: "Bungee Spice", sans-serif, ;
+    text-align: center;
+    font-size: 500%;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+    padding-right: 20%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Denk+One&family=DynaPuff:wght@400..700&family=Honk&family=Jaro:opsz@6..72&family=Kablammo&family=Leckerli+One&family=Londrina+Sketch&family=Nabla&family=Rubik+Wet+Paint&family=Sixtyfour+Convergence&display=swap');
+h2 {
+    font-family: "Honk", system-ui;
+    font-size: 300%;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Denk+One&family=DynaPuff:wght@400..700&family=Jaro:opsz@6..72&family=Kablammo&family=Leckerli+One&family=Londrina+Sketch&family=Nabla&family=Rubik+Wet+Paint&family=Sixtyfour+Convergence&display=swap');
+h3 {
+    font-family: "Nabla", system-ui;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.tareas-eliminadas {
+    margin-top: 30px;
+    padding: 10px;
+}
